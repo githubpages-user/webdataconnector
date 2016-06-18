@@ -99,6 +99,15 @@
         "source_code": ""
     },
     {
+    "name": "My Cool Connector",
+    "url": "https://xyz.com/connector.html",
+    "author": "Me",
+    "github_username": "",
+    "tags": ["v_2.0"],
+    "description": "This connector is really cool",
+    "source_code": "github.com/Me/MyConnector"
+    }, 
+    {
         "name": "New Relic Insights",
         "url": "https://insights-web-data-connector.herokuapp.com/",
         "author": "Eric Peterson",
